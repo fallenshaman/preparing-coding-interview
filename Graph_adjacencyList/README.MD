@@ -1,4 +1,4 @@
-Graph implemation using adjancy list.
+Graph implemation using adjacency list.
 --
 DFS(Depth first search) with iterative and recursive ways.
 
